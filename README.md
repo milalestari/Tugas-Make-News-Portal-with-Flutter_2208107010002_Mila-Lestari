@@ -106,6 +106,10 @@ Gantilah YOUR_API_KEY di home.dart dengan API key pribadi Anda dari newsapi.org.
 
 Berikut adalah tampilan antarmuka pengguna dari aplikasi News Portal:
 
-| Tampilan Login | Tampilan Home | Tampilan Kategori | Tampilan Profil |
-|----------------|---------------|--------------------|------------------|
-| ![apk](asset/apk.jpg) | ![portal berita](asset/portal berita.jpg) | ![kategori](asset/kategori.jpg) | ![profil](asset/profil.jpg) |
+| Tampilan Login | Tampilan Kategori |
+|----------------|-------------------|
+| ![apk](asset/apk.jpg) | ![kategori](asset/kategori.jpg) |
+
+| Tampilan Berita | Tampilan Profil |
+|------------------|-----------------|
+| ![portal_berita](asset/portal%20berita.jpg) | ![profil](asset/profil.jpg) |
